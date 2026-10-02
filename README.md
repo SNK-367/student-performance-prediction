@@ -1,4 +1,4 @@
-# 🎓 AI Student Performance Prediction
+# 🎓 Student Performance Prediction using Machine Learning
 
 Predicts whether a student will **Pass** or **Fail**, using and comparing three
 ML models: Logistic Regression, Decision Tree, and Random Forest.
